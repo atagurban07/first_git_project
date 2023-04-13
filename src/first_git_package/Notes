@@ -25,5 +25,10 @@
         *git add "src/first_git_package/MyFourthClass.java"
         *git commit -m "adding fourth class"
         *git push
-
-NOTE: git status => This is our friend.This can be used anytime to see the progress
+6.GIT PULL
+    *git pull is used to get the code from github
+    *git pull=git fetch+ git merge
+    NOTE:if git pull throws error then use:
+    git fetch
+    git merge
+NOTE: git status => This is our fr iend.This can be used anytime to see the progress
