@@ -31,4 +31,7 @@
     NOTE:if git pull throws error then use:
     git fetch
     git merge
-NOTE: git status => This is our fr iend.This can be used anytime to see the progress
+    *Now that we have our local updated,then commit codes and push all together
+Note:PULL before PUSH
+    *git pull->git add . ->git commit -m "message" -> git push
+NOTE: git status => This is our friend.This can be used anytime to see the progress
