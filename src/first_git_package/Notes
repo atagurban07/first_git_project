@@ -35,3 +35,6 @@
 Note:PULL before PUSH
     *git pull->git add . ->git commit -m "message" -> git push
 NOTE: git status => This is our friend.This can be used anytime to see the progress
+
+----------BRANCHING------
+git branch -a => show me all branches
