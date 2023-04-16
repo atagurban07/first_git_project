@@ -38,3 +38,15 @@ NOTE: git status => This is our friend.This can be used anytime to see the progr
 
 ----------BRANCHING------
 git branch -a => show me all branches
+git branch test ->create test branch
+git checkout test -> switched to test branch
+created a code : MySixthClass
+create a new commit and push
+    git add .
+    git commit -m "message"
+    git push --set-upstream origin test
+then codes will be in the remote test branch
+Then in github expert or will us will do:
+    Pull Request (PR)(us or expert)
+    Then code review(Expert)
+    Then code merge(Expert)
